@@ -1,11 +1,12 @@
 # CyberSec
-
+<p>
 About Cyber Security Base Blog:
-
+</p>
 Application “Cyber Security Base Blog" was made in Django – one of the most popular Python Web framework. The idea to create application was to give Cyber Security Base participants another tool to exchange knowledge about course and cyber security in general. Application has most important blog features like: authentication system, registration, log in, logout, user profile customization, user profile update and of course also allows to add, update, view and delete posts. However there are many thinks that can be added (for example pagination), blog is fully functional. As described in the task, Cyber Security Base Blog has five flaws. 
-
+<br />
+<p>
 Installation instructions:
-
+</p>
 First of all You have to install Python for Your OS. 
 Link: https://www.python.org/downloads/ 
 From there You can download Python for Windows, Linux/UNIX, Mac OS X or other OS.
@@ -32,12 +33,12 @@ You can check if installation was successful by typing:
 $ python -m django --version
 If that runs, Django was installed correctly
 You will need also 2 more things.
-1) Django-crispy-forms - an application that helps to manage Django forms
-2) Pillow - library to work with images in Python
+- Django-crispy-forms - an application that helps to manage Django forms
+- Pillow - library to work with images in Python
 To install them type in console:
 $ pip install django-crispy-forms
 $ pip install Pillow
-Now You have everything to run project so download Cyber Security Base Blog application from Github.
+<p>Now You have everything to run project so download Cyber Security Base Blog application from Github.
 Link: https://github.com/PawelCiszewski/CyberSec
 In console go to Your directory and type:
 $ django-admin startproject CyberBlog 
@@ -48,3 +49,4 @@ $ python manage.py runserver
 Now You can open Cyber Security Base Blog. 
 In Your web browser go to http://127.0.0.1:8000/
 Everything is set!
+</p>
