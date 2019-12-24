@@ -2,7 +2,7 @@
 
 About Cyber Security Base Blog:
 
-Application “Cyber Security Base Blog" was made in Django - one oh the most popular Python Web framework. The idea to create application was to give Cyber Security Base students  another tool to exchange knowleadge about course and cyber security in general. Application has most important blog features like: authentication system, registration, log in, logout, user profile customization, user profile update, view all posts, view individual post and of course also allows to add, update and delete posts. However there are many thinks to add (for example pagination), but first we habe to get rid of some flaws in this app.
+Application “Cyber Security Base Blog" was made in Django – one of the most popular Python Web framework. The idea to create application was to give Cyber Security Base participants another tool to exchange knowledge about course and cyber security in general. Application has most important blog features like: authentication system, registration, log in, logout, user profile customization, user profile update and of course also allows to add, update, view and delete posts. However there are many thinks that can be added (for example pagination), blog is fully functional. As described in the task, Cyber Security Base Blog has five flaws. 
 
 
 Project description:
